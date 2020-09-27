@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/asphalt_center_slab" },
+        "type=top": { "model": "pattysmorestuff:block/asphalt_center_slab_top" },
+        "type=double": { "model": "pattysmorestuff:block/asphalt_center" }
+    }
+}

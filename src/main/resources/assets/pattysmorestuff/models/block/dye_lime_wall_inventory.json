@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "pattysmorestuff:blocks/dye_block_lime"
+    }
+}

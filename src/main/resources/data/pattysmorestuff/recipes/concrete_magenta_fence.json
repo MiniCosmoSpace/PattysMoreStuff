@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:magenta_concrete",
+    "data": 2
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:concrete_magenta_fence",
+	"count": 3
+  }
+}

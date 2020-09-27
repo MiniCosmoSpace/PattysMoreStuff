@@ -1,0 +1,19 @@
+{  
+   "type":"minecraft:crafting_shaped",
+   "pattern":[  
+      "PIP",
+      "IPI",
+      "PIP"
+   ],
+   "key":{  
+      "P":{  
+         "item":"minecraft:porkchop"
+      },
+      "I":{  
+         "item":"minecraft:iron_ingot"
+      }
+   },
+   "result":{  
+      "item":"minecraft:spawner"
+   }
+}

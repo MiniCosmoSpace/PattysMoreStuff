@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "pattysmorestuff:stonebrick_black",
+	"data": 0
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:stonebrick_black_fence",
+	"count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:redstone_ore"
+	},
+	"result": {
+		"item": "minecraft:redstone",
+		"count": 6
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

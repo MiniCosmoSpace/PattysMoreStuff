@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "pattysmorestuff:blocks/stonebrick_light_blue"
+    }
+}

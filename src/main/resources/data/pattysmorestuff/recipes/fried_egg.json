@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "pattysmorestuff:fried_egg",
+  "experience": 0.7,
+  "cookingtime": 200
+}

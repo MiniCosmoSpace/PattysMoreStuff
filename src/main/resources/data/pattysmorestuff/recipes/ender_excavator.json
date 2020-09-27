@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "pattysmorestuff:ender_pearl_block"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:ender_excavator"
+  }
+}

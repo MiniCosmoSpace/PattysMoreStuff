@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XLX",
+    "LSL",
+    "XLX"
+  ],
+  "key": {
+    "X": {
+    "item": "minecraft:ghast_tear"
+    },
+    "L": {
+    "item": "minecraft:lava_bucket"
+    },
+    "S": {
+    "item": "pattysmorestuff:netherstar_block"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:inf_lava_bucket"
+  }
+}

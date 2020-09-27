@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+	"DFD",
+	"NTN"
+  ],
+  "key": {
+    "O": {
+    "item": "minecraft:obsidian"
+    },
+	"F": {
+	"item": "pattysmorestuff:emerald_furnace"
+	},
+	"D": {
+	"item": "minecraft:emerald_block"
+	},
+	"N": {
+	"item": "minecraft:nether_brick"
+	},
+	"T": {
+	"item": "minecraft:tnt"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:obsidian_furnace"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "pattysmorestuff:dye_block_pink",
+	"data": 8
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:dye_pink_fence",
+	"count": 3
+  }
+}

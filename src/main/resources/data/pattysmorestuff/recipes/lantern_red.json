@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+	"CTC",
+	"CCC"
+  ],
+  "key": {
+    "C": {
+    "item": "minecraft:red_dye"
+    },
+	"T": {
+	"item": "minecraft:torch"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:lantern_red"
+  }
+}

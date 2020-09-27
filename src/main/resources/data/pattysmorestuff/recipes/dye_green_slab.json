@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pattysmorestuff:dye_block_green"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:dye_green_slab",
+    "count": 6
+  }
+}

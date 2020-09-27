@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pattysmorestuff:dye_block_cyan"
+  },
+  "result": "pattysmorestuff:dye_cyan_wall",
+  "count": 1
+}

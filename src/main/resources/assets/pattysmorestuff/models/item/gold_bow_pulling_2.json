@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/gold_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/gold_bow_pulling_2"
+    }
+}

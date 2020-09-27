@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+	"#C#",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:acacia_planks"
+    },
+	"C": {
+	"item": "minecraft:chest"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:acacia_storage_crate"
+  }
+}

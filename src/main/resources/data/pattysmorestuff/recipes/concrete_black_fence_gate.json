@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+	"#D#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:black_concrete",
+    "data": 15
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:concrete_black_fence_gate",
+	"count": 1
+  }
+}

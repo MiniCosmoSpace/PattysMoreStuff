@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "pattysmorestuff:baguette_roll"
+    },
+	{
+	  "item": "pattysmorestuff:fried_egg" 
+	},
+	{
+	  "item": "pattysmorestuff:sausage_cooked" 
+	}
+  ],
+  "result": {
+    "item": "pattysmorestuff:baguette_eggsausage"
+  }
+}

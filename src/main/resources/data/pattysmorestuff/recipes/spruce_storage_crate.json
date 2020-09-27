@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+	"#C#",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:spruce_planks"
+    },
+	"C": {
+	"item": "minecraft:chest"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:spruce_storage_crate"
+  }
+}

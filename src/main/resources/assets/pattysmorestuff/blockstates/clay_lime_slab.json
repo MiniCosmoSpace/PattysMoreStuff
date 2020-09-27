@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/clay_lime_slab" },
+        "type=top": { "model": "pattysmorestuff:block/clay_lime_slab_top" },
+        "type=double": { "model": "block/lime_terracotta" }
+    }
+}

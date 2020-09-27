@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+	"#C#",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:gold_ingot"
+    },
+	"C": {
+	"item": "pattysmorestuff:iron_furnace"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:gold_furnace"
+  }
+}

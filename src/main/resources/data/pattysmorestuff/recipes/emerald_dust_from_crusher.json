@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:emerald"
+	},
+	"result": {
+		"item": "pattysmorestuff:emerald_dust",
+		"count": 1
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

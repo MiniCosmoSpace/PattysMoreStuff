@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/leather_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/leather_bow_pulling_0"
+    }
+}

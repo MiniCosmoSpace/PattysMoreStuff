@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:soul_sand_chestplate"
+  }
+}

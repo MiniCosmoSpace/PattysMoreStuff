@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/magma_cream_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/magma_cream_bow_pulling_2"
+    }
+}

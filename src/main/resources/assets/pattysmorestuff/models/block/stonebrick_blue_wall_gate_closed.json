@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_fence_gate_closed",
+    "textures": {
+        "texture": "pattysmorestuff:blocks/stonebrick_blue"
+    }
+}

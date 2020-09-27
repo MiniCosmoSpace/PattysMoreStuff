@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "pattysmorestuff:items/magmacream_battle_axe"
+    }
+}

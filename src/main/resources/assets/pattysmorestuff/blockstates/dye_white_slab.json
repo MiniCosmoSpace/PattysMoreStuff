@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/dye_white_slab" },
+        "type=top": { "model": "pattysmorestuff:block/dye_white_slab_top" },
+        "type=double": { "model": "block/bone_block" }
+    }
+}

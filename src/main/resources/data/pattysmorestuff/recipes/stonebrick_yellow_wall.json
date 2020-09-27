@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pattysmorestuff:stonebrick_yellow"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:stonebrick_yellow_wall",
+    "count": 6
+  }
+}

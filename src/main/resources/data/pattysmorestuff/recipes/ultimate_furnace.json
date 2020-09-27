@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+	"EFE",
+	"#N#"
+  ],
+  "key": {
+    "S": {
+    "item": "minecraft:nether_star"
+    },
+	"E": {
+	"item": "minecraft:ender_eye"
+	},
+	"N": {
+	"item": "minecraft:nether_brick"
+	},
+	"#": {
+	"item": "minecraft:end_stone"
+	},
+	"F": {
+	"item": "pattysmorestuff:obsidian_furnace"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:ultimate_furnace"
+  }
+}

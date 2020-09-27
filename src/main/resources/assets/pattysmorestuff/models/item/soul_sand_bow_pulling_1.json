@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/soul_sand_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/soul_sand_bow_pulling_1"
+    }
+}

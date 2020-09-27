@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+	"#B#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:glass_bottle"
+    },
+	"B": {
+	"item": "minecraft:milk_bucket"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:bottle_milk",
+	"count": 3
+  }
+}

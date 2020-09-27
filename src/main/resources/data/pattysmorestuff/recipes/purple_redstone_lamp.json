@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:purple_dye"
+    },
+	"B": {
+	"item": "minecraft:redstone_lamp"
+		
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:purple_redstone_lamp",
+	"count": 1
+  }
+}

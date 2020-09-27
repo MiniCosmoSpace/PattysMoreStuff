@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X#X",
+    " # "
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "X": {
+    "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:glowstone_battle_axe"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:redstone_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:redstone_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:redstone_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:redstone_paxel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:iron_ore"
+	},
+	"result": {
+		"item": "pattysmorestuff:iron_dust",
+		"count": 2
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

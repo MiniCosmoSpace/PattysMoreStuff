@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:dye_white_fence",
+	"count": 3
+  }
+}

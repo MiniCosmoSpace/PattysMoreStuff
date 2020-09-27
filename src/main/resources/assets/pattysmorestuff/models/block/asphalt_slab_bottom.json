@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "pattysmorestuff:blocks/asphalt",
+        "top": "pattysmorestuff:blocks/asphalt",
+        "side": "pattysmorestuff:blocks/asphalt"
+    }
+}

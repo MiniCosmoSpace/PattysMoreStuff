@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+	"## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "pattysmorestuff:dye_block_brown"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:dye_brown_stairs",
+	"count": 4
+  }
+}

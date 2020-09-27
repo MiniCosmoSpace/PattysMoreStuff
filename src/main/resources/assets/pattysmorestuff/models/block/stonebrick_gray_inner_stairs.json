@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/stonebrick_gray",
+        "top": "pattysmorestuff:blocks/stonebrick_gray",
+        "side": "pattysmorestuff:blocks/stonebrick_gray"
+    }
+}

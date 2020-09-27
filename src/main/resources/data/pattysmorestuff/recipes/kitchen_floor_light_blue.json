@@ -1,0 +1,19 @@
+{  
+   "type":"minecraft:crafting_shaped",
+   "pattern":[  
+      "WC",
+      "CW"
+   ],
+   "key":{  
+      "W":{  
+         "item":"minecraft:bone_block"
+      },
+      "C":{  
+         "item":"pattysmorestuff:dye_block_light_blue"
+      }
+   },
+   "result":{  
+      "item":"pattysmorestuff:kitchen_floor_light_blue",
+      "count":4
+   }
+}

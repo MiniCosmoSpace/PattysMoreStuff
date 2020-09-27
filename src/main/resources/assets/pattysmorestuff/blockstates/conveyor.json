@@ -1,0 +1,23 @@
+  
+{
+  "variants": {
+    "facing=north,powered=false": {
+      "model": "pattysmorestuff:block/conveyor"
+    },
+    "facing=east,powered=false": {
+      "model": "pattysmorestuff:block/conveyor",
+      "y": 90
+    },
+    "facing=south,powered=false": {
+      "model": "pattysmorestuff:block/conveyor",
+      "y": 180
+    },
+    "facing=west,powered=false": {
+      "model": "pattysmorestuff:block/conveyor",
+      "y": 270
+    },
+    "powered=true": {
+      "model": "pattysmorestuff:block/blank_plate"
+    }
+  }
+}

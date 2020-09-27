@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: PattysMoreStuff
+Implementation-Version: 1.2.2.2
+Specification-Vendor: StuffTheChicken
+Specification-Title: PattysMoreStuff
+Implementation-Timestamp: 2020-08-01T16:54:15+0100
+Specification-Version: 1
+Implementation-Vendor: StuffTheChicken
+

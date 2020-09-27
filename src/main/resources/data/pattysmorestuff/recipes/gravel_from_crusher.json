@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:cobblestone"
+	},
+	"result": {
+		"item": "minecraft:gravel",
+		"count": 1
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

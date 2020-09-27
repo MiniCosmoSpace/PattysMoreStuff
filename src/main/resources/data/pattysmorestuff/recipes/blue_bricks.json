@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:blue_dye"
+    },
+	"B": {
+	"item": "minecraft:bricks"
+		
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:blue_bricks",
+	"count": 1
+  }
+}

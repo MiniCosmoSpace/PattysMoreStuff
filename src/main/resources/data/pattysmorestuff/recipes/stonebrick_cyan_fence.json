@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "pattysmorestuff:stonebrick_cyan",
+	"data": 6
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:stonebrick_cyan_fence",
+	"count": 3
+  }
+}

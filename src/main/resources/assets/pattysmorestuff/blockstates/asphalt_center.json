@@ -1,0 +1,8 @@
+{
+    "variants": {
+		"facing=south": { "model": "pattysmorestuff:block/asphalt_center" },
+        "facing=west": { "model": "pattysmorestuff:block/asphalt_center", "y": 90 },
+        "facing=north":  { "model": "pattysmorestuff:block/asphalt_center", "y": 180 },
+        "facing=east":  { "model": "pattysmorestuff:block/asphalt_center", "y": 270 }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+	"## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:red_concrete"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:concrete_red_stairs",
+	"count": 4
+  }
+}

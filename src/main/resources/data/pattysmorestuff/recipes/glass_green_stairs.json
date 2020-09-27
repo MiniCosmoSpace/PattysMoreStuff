@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+	"## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:green_stained_glass"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:glass_green_stairs",
+	"count": 4
+  }
+}

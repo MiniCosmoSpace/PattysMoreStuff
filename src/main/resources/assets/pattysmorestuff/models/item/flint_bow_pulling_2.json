@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/flint_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/flint_bow_pulling_2"
+    }
+}

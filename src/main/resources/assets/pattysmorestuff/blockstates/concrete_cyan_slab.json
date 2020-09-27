@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/concrete_cyan_slab" },
+        "type=top": { "model": "pattysmorestuff:block/concrete_cyan_slab_top" },
+        "type=double": { "model": "block/cyan_concrete" }
+    }
+}

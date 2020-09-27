@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+	"#D#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "pattysmorestuff:dye_block_light_blue"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:dye_light_blue_fence_gate",
+	"count": 1
+  }
+}

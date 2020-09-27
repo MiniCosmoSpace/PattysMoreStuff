@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:orange_concrete",
+    "data": 1
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:concrete_orange_fence",
+	"count": 3
+  }
+}

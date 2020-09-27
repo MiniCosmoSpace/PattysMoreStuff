@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_inventory",
+    "textures": {
+        "texture": "pattysmorestuff:blocks/dye_block_purple"
+    }
+}

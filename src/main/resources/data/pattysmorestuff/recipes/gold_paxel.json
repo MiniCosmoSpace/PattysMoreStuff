@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "minecraft:golden_axe"
+    },
+    "S": {
+    "item": "minecraft:golden_shovel"
+    },
+    "P": {
+    "item": "minecraft:golden_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:gold_paxel"
+  }
+}

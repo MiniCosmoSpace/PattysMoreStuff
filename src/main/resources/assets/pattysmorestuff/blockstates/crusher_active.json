@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "pattysmorestuff:crusher_active" },
+        "facing=south": { "model": "pattysmorestuff:crusher_active", "y": 180 },
+        "facing=west":  { "model": "pattysmorestuff:crusher_active", "y": 270 },
+        "facing=east":  { "model": "pattysmorestuff:crusher_active", "y": 90 }
+    }
+}

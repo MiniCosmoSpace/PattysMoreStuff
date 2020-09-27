@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:light_blue_wool"
+  },
+  "result": "pattysmorestuff:wool_light_blue_wall",
+  "count": 1
+}

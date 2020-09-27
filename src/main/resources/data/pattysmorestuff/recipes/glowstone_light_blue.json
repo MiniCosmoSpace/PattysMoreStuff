@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+	"B#B",
+	"BBB"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:light_blue_dye"
+    },
+	"B": {
+	"item": "minecraft:glowstone"
+		
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:light_blue_glowstone",
+	"count": 8
+  }
+}

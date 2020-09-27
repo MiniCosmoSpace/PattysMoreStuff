@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XGX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+	"G": {
+	  "item": "minecraft:glowstone"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:miners_helmet"
+  }
+}

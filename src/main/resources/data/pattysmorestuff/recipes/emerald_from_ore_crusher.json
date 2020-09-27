@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:emerald_ore"
+	},
+	"result": {
+		"item": "minecraft:emerald",
+		"count": 2
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

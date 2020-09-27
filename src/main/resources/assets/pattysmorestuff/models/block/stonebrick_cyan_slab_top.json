@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/stonebrick_cyan",
+        "top": "pattysmorestuff:blocks/stonebrick_cyan",
+        "side": "pattysmorestuff:blocks/stonebrick_cyan"
+    }
+}

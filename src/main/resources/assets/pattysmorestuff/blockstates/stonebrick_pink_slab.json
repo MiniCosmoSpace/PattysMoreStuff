@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/stonebrick_pink_slab" },
+        "type=top": { "model": "pattysmorestuff:block/stonebrick_pink_slab_top" },
+        "type=double": { "model": "pattysmorestuff:block/stonebrick_pink" }
+    }
+}

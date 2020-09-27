@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_fence_wall_gate_open",
+    "textures": {
+        "texture": "block/bone_block_side"
+    }
+}

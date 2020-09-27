@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:nether_quartz_ore"
+	},
+	"result": {
+		"item": "minecraft:quartz",
+		"count": 3
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

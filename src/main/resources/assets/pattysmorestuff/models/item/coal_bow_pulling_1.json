@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/coal_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/coal_bow_pulling_1"
+    }
+}

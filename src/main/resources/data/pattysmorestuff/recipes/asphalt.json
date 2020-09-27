@@ -1,0 +1,27 @@
+{  
+   "type":"minecraft:crafting_shaped",
+   "pattern":[  
+      "SCS",
+      "G#G",
+      "SCS"
+   ],
+   "key":{  
+      "S":{  
+         "item":"minecraft:sand",
+		 "data": 0
+      },
+      "C":{  
+         "item":"minecraft:clay_ball"
+      },
+      "G":{  
+         "item":"minecraft:gravel"
+      },
+      "#":{  
+         "item":"minecraft:water_bucket"
+      }
+   },
+   "result":{  
+      "item":"pattysmorestuff:asphalt",
+      "count":8
+   }
+}

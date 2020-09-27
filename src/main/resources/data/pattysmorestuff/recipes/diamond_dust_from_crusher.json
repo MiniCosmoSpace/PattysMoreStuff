@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:diamond"
+	},
+	"result": {
+		"item": "pattysmorestuff:diamond_dust",
+		"count": 1
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "	
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:soul_sand_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:soul_sand_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:soul_sand_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:soul_sand_paxel"
+  }
+}

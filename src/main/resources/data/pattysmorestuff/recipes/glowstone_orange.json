@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+	"B#B",
+	"BBB"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:orange_dye"
+    },
+	"B": {
+	"item": "minecraft:glowstone"
+		
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:orange_glowstone",
+	"count": 8
+  }
+}

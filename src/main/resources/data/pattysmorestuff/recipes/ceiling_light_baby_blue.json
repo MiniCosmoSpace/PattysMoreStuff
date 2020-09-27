@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+	" G "
+  ],
+  "key": {
+    "C": {
+    "item": "minecraft:light_blue_dye"
+    },
+	"G": {
+	"item": "minecraft:sea_lantern"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:ceiling_light_light_blue",
+	"count": 3
+  }
+}

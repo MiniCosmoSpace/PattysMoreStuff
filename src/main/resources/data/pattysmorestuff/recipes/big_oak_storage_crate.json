@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+	"#C#",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:dark_oak_planks"
+    },
+	"C": {
+	"item": "minecraft:chest"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:big_oak_storage_crate"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_gate_open",
+    "textures": {
+        "texture": "pattysmorestuff:blockss/stonebrick_magenta"
+    }
+}

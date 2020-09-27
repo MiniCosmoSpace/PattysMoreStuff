@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+	"GRG",
+	"CCC"
+  ],
+  "key": {
+    "C": {
+    "item": "minecraft:light_gray_terracotta"
+    },
+	"G": {
+	"item": "minecraft:light_gray_stained_glass_pane"
+	},
+	"R": {
+	"item": "minecraft:redstone_block"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:blender_silver"
+  }
+}

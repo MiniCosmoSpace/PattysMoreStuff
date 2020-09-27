@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/dye_block_light_blue",
+        "top": "pattysmorestuff:blocks/dye_block_light_blue",
+        "side": "pattysmorestuff:blocks/dye_block_light_blue"
+    }
+}

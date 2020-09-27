@@ -1,0 +1,7 @@
+{
+  "parent": "block/carpet",
+  "textures": {
+    "particle": "pattysmorestuff:blocks/trap_base",
+    "wool": "pattysmorestuff:blocks/trap_base"
+  }
+}

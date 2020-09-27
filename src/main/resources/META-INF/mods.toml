@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+issueTrackerURL="https://minecraft.curseforge.com/projects/pattysmorestuff/issues"
+
+[[mods]]
+modId="pattysmorestuff"
+namespace="pattysmorestuff"
+version="1.2.3"
+displayName="pattysmorestuff"
+authors="StuffTheChicken"
+description='''
+    This mod adds random stuff using mainly materials already in the game.
+    '''
+displayURL="https://minecraft.curseforge.com/projects/pattysmorestuff"
+[[dependencies.pattysmorestuff]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.pattysmorestuff]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

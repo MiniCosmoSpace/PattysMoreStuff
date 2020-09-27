@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:lapis_ore"
+	},
+	"result": {
+		"item": "minecraft:lapis_lazuli",
+		"count": 10
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

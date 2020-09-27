@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/dye_block_orange",
+        "top": "pattysmorestuff:blocks/dye_block_orange",
+        "side": "pattysmorestuff:blocks/dye_block_orange"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:lime_terracotta",
+    "data": 5
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:clay_lime_fence",
+	"count": 3
+  }
+}

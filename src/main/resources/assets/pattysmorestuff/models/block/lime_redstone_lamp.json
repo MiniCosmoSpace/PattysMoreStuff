@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+	    "particle": "pattysmorestuff:blocks/lime_redstone_lamp",
+        "all": "pattysmorestuff:blocks/lime_redstone_lamp"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/stonebrick_lime",
+        "top": "pattysmorestuff:blocks/stonebrick_lime",
+        "side": "pattysmorestuff:blocks/stonebrick_lime"
+    }
+}

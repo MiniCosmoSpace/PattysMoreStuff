@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/redstone_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/redstone_bow_pulling_2"
+    }
+}

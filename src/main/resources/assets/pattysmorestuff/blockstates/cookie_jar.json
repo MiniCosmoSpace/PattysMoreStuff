@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"variant=white": { "model": "pattysmorestuff:cookie_jar_white" },
+		"variant=orange": { "model": "pattysmorestuff:cookie_jar_orange" },
+		"variant=magenta": { "model": "pattysmorestuff:cookie_jar_magenta" },
+		"variant=light_blue": { "model": "pattysmorestuff:cookie_jar_light_blue" },
+		"variant=yellow": { "model": "pattysmorestuff:cookie_jar_yellow" },
+		"variant=lime": { "model": "pattysmorestuff:cookie_jar_lime" },
+		"variant=pink": { "model": "pattysmorestuff:cookie_jar_pink" },
+		"variant=gray": { "model": "pattysmorestuff:cookie_jar_gray" },
+		"variant=silver": { "model": "pattysmorestuff:cookie_jar_silver" },
+		"variant=cyan": { "model": "pattysmorestuff:cookie_jar_cyan" },
+		"variant=purple": { "model": "pattysmorestuff:cookie_jar_purple" },
+		"variant=blue": { "model": "pattysmorestuff:cookie_jar_blue" },
+		"variant=brown": { "model": "pattysmorestuff:cookie_jar_brown" },
+		"variant=green": { "model": "pattysmorestuff:cookie_jar_green" },
+		"variant=red": { "model": "pattysmorestuff:cookie_jar_red" },
+		"variant=black": { "model": "pattysmorestuff:cookie_jar_black" }
+	}
+	
+}

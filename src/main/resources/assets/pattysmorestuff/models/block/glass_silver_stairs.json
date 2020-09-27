@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/light_gray_stained_glass",
+        "top": "block/light_gray_stained_glass",
+        "side": "block/light_gray_stained_glass"
+    }
+}

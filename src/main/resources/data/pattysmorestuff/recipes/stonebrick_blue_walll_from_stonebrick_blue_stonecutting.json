@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pattysmorestuff:stonebrick_blue"
+  },
+  "result": "pattysmorestuff:stonebrick_blue_wall",
+  "count": 1
+}

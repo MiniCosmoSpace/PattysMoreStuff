@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "pattysmorestuff:blocks/kitchen_floor_blue" 
+    }
+}

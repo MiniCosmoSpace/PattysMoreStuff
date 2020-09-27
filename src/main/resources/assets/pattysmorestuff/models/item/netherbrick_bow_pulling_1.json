@@ -1,0 +1,6 @@
+{
+    "parent": "pattysmorestuff:item/netherbrick_bow",
+    "textures": {
+        "layer0": "pattysmorestuff:items/netherbrick_bow_pulling_1"
+    }
+}

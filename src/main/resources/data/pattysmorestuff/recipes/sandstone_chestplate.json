@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:sandstone",
+	  "data": 0
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:sandstone_chestplate"
+  }
+}

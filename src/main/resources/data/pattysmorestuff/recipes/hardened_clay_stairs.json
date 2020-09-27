@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+	"## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:terracotta"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:hardened_clay_stairs",
+	"count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X#X",
+    " # "
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "X": {
+    "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:redstone_battle_axe"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"facing=north,active=false": { "model": "pattysmorestuff:block/crusher" },
+		"facing=north,active=true": { "model": "pattysmorestuff:block/crusher_active" },
+		"facing=south,active=false": { "model": "pattysmorestuff:block/crusher", "y": 180 },
+		"facing=south,active=true": { "model": "pattysmorestuff:block/crusher_active", "y": 180 },
+		"facing=east,active=false": { "model": "pattysmorestuff:block/crusher", "y": 90 },
+		"facing=east,active=true": { "model": "pattysmorestuff:block/crusher_active", "y": 90 },
+		"facing=west,active=false": { "model": "pattysmorestuff:block/crusher", "y": 270 },
+		"facing=west,active=true": { "model": "pattysmorestuff:block/crusher_active", "y": 270 }
+	}
+}

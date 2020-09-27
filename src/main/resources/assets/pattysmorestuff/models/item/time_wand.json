@@ -1,0 +1,6 @@
+{
+  "parent": "pattysmorestuff:item/generic_wand",
+  "textures": {
+    "layer0": "pattysmorestuff:items/time_wand"
+  }
+}

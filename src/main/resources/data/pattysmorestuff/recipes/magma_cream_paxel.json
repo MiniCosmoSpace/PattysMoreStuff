@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:magma_cream_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:magma_cream_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:magma_cream_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:magma_cream_paxel"
+  }
+}

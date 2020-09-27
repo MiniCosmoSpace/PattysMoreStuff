@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:brown_wool",
+    "data": 12
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:wool_brown_fence",
+	"count": 3
+  }
+}

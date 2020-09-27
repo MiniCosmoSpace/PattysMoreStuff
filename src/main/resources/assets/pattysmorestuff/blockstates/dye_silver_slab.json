@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/dye_silver_slab" },
+        "type=top": { "model": "pattysmorestuff:block/dye_silver_slab_top" },
+        "type=double": { "model": "pattysmorestuff:block/dye_block_light_gray" }
+    }
+}

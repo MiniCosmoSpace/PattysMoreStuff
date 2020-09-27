@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  C",
+	" S ",
+	"S  "
+  ],
+  "key": {
+    "C": {
+    "item": "minecraft:glowstone_dust"
+    },
+	"S": {
+    "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:light_wand"
+  }
+}

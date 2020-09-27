@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "pattysmorestuff:block/wool_cyan_slab" },
+        "type=top": { "model": "pattysmorestuff:block/wool_cyan_slab_top" },
+        "type=double": { "model": "block/cyan_wool" }
+    }
+}

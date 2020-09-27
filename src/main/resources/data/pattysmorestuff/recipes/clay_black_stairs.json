@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+	"## ",
+	"###"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:black_terracotta"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:clay_black_stairs",
+	"count": 4
+  }
+}

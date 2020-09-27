@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:coal_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:coal_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:coal_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:coal_paxel"
+  }
+}

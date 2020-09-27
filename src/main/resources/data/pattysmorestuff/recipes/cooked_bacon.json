@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "pattysmorestuff:bacon_raw"
+  },
+  "result": "pattysmorestuff:bacon_cooked",
+  "experience": 0.7,
+  "cookingtime": 200
+}

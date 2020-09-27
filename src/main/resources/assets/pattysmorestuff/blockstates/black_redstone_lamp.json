@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "pattysmorestuff:block/black_redstone_lamp" },
+        "lit=true": { "model": "pattysmorestuff:block/black_redstone_lamp_on" }
+    }
+}

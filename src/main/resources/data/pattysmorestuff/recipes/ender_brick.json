@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+	"##"
+  ],
+  "key": {
+    "#": {
+    "item": "pattysmorestuff:ender_pearl_block"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:ender_brick"
+  }
+}

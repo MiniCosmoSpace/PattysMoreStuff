@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X"
+  ],
+  "key": {
+    "X": {
+    "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:inf_water_bucket"
+  }
+}

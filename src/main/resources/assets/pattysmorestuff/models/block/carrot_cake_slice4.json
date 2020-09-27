@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "pattysmorestuff:blocks/carrot_cake_side",
+        "bottom": "pattysmorestuff:blocks/carrot_cake_bottom",
+        "top": "pattysmorestuff:blocks/carrot_cake_top",
+        "side": "pattysmorestuff:blocks/carrot_cake_side",
+        "inside": "pattysmorestuff:blocks/carrot_cake_inner"
+    },
+    "elements": [
+        {   "from": [ 9, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

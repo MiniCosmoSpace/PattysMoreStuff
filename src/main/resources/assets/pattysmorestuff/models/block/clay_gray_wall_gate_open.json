@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_gate_open",
+    "textures": {
+        "texture": "block/hardened_clay_stained_gray"
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:stone_bricks"
+	},
+	"result": {
+		"item": "minecraft:stone",
+		"count": 4
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

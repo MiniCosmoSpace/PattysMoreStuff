@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:quartz_block"
+	},
+	"result": {
+		"item": "minecraft:quartz",
+		"count": 4
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

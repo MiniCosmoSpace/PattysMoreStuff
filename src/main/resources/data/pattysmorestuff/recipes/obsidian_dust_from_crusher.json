@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "pattysmorestuff:obsidian_ingot"
+	},
+	"result": {
+		"item": "pattysmorestuff:obsidian_dust",
+		"count": 1
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

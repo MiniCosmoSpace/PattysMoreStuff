@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "pattysmorestuff:block/dye_block_cyan",
+        "top": "pattysmorestuff:block/dye_block_cyan",
+        "side": "pattysmorestuff:block/dye_block_cyan"
+    }
+}

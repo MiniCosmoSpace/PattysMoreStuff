@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+	"B#B",
+	"BBB"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:cyan_dye"
+    },
+	"B": {
+	"item": "minecraft:stone_bricks"
+		
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:stonebrick_cyan",
+	"count": 8
+  }
+}

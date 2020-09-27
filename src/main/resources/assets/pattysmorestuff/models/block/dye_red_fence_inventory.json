@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "pattysmorestuff:blocks/dye_block_red"
+    }
+}

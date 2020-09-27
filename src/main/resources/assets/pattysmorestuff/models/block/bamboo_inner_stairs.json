@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "pattysmorestuff:blocks/bamboo_top",
+        "top": "pattysmorestuff:blocks/bamboo_top",
+        "side": "pattysmorestuff:blocks/bamboo"
+    }
+}

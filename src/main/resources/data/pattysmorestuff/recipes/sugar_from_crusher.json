@@ -1,0 +1,12 @@
+{
+	"type": "pattysmorestuff:crushing",
+	"ingredient": {
+		"item": "minecraft:sugar_cane"
+	},
+	"result": {
+		"item": "minecraft:sugar",
+		"count": 3
+	},
+	"experience": 2.3,
+	"crushtime": 200
+}

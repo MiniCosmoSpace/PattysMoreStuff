@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LGL",
+	"GSG",
+	"CGC"
+  ],
+  "key": {
+    "L": {
+    "item": "minecraft:leather"
+    },
+	"G": {
+	"item": "minecraft:gold_ingot"
+	},
+	"S": {
+	"item": "minecraft:nether_star"
+	},
+	"C": {
+	"item": "minecraft:end_crystal"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:ring_of_flight"
+  }
+}

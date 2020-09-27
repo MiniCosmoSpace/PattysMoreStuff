@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:quartz_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:quartz_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:quartz_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:quartz_paxel"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K#",
+	"# "
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:carrot"
+    },
+	"K": {
+	"item": "pattysmorestuff:knife"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:fruit_salad"
+  }
+}

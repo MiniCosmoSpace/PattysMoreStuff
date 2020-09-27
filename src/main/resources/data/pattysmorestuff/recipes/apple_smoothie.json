@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+	"BSB",
+	" G "
+  ],
+  "key": {
+    "F": {
+    "item": "minecraft:apple"
+    },
+	"B": {
+	"item": "minecraft:milk_bucket"
+	},
+	"S": {
+	"item": "minecraft:sugar"
+	},
+	"G": {
+	"item": "minecraft:glass_bottle"
+	}
+  },
+  "result": {
+    "item": "pattysmorestuff:apple_smoothie"
+  }
+}

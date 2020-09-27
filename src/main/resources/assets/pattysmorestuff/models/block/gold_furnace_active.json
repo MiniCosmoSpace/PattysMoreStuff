@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "pattysmorestuff:blocks/gold_furnace_top",
+        "front": "pattysmorestuff:blocks/gold_furnace_front_on",
+        "side": "pattysmorestuff:blocks/gold_furnace_side"
+    }
+}

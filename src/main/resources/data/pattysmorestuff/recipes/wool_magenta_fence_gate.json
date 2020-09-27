@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+	"#D#"
+  ],
+  "key": {
+    "#": {
+    "item": "minecraft:stick"
+    },
+    "D": {
+    "item": "minecraft:magenta_wool",
+    "data": 2
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:wool_magenta_fence_gate",
+	"count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "pattysmorestuff:baguette_roll"
+    },
+	{
+	  "item": "pattysmorestuff:bacon_cooked" 
+	}
+  ],
+  "result": {
+    "item": "pattysmorestuff:baguette_bacon"
+  }
+}

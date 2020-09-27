@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"variant=white": { "model": "pattysmorestuff:lantern_white" },
+		"variant=orange": { "model": "pattysmorestuff:lantern_orange" },
+		"variant=magenta": { "model": "pattysmorestuff:lantern_magenta" },
+		"variant=light_blue": { "model": "pattysmorestuff:lantern_light_blue" },
+		"variant=yellow": { "model": "pattysmorestuff:lantern_yellow" },
+		"variant=lime": { "model": "pattysmorestuff:lantern_lime" },
+		"variant=pink": { "model": "pattysmorestuff:lantern_pink" },
+		"variant=gray": { "model": "pattysmorestuff:lantern_gray" },
+		"variant=silver": { "model": "pattysmorestuff:lantern_silver" },
+		"variant=cyan": { "model": "pattysmorestuff:lantern_cyan" },
+		"variant=purple": { "model": "pattysmorestuff:lantern_purple" },
+		"variant=blue": { "model": "pattysmorestuff:lantern_blue" },
+		"variant=brown": { "model": "pattysmorestuff:lantern_brown" },
+		"variant=green": { "model": "pattysmorestuff:lantern_green" },
+		"variant=red": { "model": "pattysmorestuff:lantern_red" },
+		"variant=black": { "model": "pattysmorestuff:lantern_black" }
+	}
+	
+}

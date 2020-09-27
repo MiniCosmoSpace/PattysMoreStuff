@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+    "item": "pattysmorestuff:glowstone_axe"
+    },
+    "S": {
+    "item": "pattysmorestuff:glowstone_shovel"
+    },
+    "P": {
+    "item": "pattysmorestuff:glowstone_pickaxe"
+    }
+  },
+  "result": {
+    "item": "pattysmorestuff:glowstone_paxel"
+  }
+}
