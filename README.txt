@@ -1,3 +1,7 @@
+
+ALL CREDIT GOES TO TwiistsGaming
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
